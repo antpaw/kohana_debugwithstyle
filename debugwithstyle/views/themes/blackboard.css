@@ -1,0 +1,21 @@
+.debug {
+	background-color: #0C1021;
+	color: #F1F1F1;
+}
+.debug small {
+	color: #8DA6CE;
+}
+.debug .arrow,
+.debug .const {
+	color: #FBDE2D;
+}
+.debug .count {
+	font-size: 10px;
+	color: #AEAEAE;
+}
+.debug .name {
+	color: #61CE3C;
+}
+.debug .objname {
+	color: #FF6400;
+}
