@@ -1,6 +1,6 @@
 # Debugging class parsed with TextMate Flavored Themes
 
-![debugwithstyle](http://stuff.antpaw.org/pics/debugwithstyle.png)
+![debugwithstyle](http://stuff.antpaw.de/pics/debugwithstyle.png)
 
 ### Installation:
 
