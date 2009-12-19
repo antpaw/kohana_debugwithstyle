@@ -5,5 +5,5 @@
 ### Installation:
 
 1. enable the `debugwithstyle` module in the `bootstrap.php`
-2. choose the theme you like in the `config.php`
+2. choose the theme you like in the `config`
 3. check out `usage-example.php` to get started
