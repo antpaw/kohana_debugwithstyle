@@ -19,3 +19,9 @@
 .debug .objname {
 	color: #FFEE80;
 }
+.debug ::-moz-selection{
+	background: #003362;
+}
+.debug ::selection {
+	background: #003362;
+}
