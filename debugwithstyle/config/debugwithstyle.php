@@ -2,8 +2,9 @@
 
 return array
 (
-	// Choose form blackboard, mac_classic and cobalt
+	// 'blackboard', 'mac_classic' or 'cobalt'
 	'theme'		=> 'blackboard',
+	// 'Monaco', 'Courier New', 'Consolas' or any other monospace font that you have
 	'font'		=> 'Monaco',
 	'font_size'	=> '12px',
 );
